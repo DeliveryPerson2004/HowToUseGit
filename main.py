@@ -1,4 +1,3 @@
-def an_apple():
-    print("an apple")
+from apple import an_apple
 
 an_apple()
