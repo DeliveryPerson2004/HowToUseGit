@@ -1,2 +1,2 @@
-def an_apple():
-    print("An apple a day keeps the doctor away.")
+def shupian():
+    print("Shupian tianxiawudi haochi")
